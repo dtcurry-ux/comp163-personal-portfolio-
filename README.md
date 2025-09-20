@@ -26,10 +26,10 @@ birthday = ("Birthday", 4, 28, 2007)
 # ------------------ Interest Tracking (Sets) ------------------
 # Sets store unordered collections of unique items
 current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_to_learn = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
-career_interests = {"Software development", "Web development", "Data science", "Game development"}
-hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+skills_to_learn = {"JavaScript", "C++", "Git", "Web design", "Public speaking"}
+career_interests = {"Software development", "CyberSecurity", "Data science", "Game development"}
+hobbies = {"Gaming", "Sleeping", "Reading manga", "Gym", "Music"}
+entertainment_backlog = {"HellsingUltimate", "Barry", "Life", "Incantation", "Memento"}
 
 # ------------------ Organizational Mapping (Dictionaries) ------------------
 # Dictionaries store key-value pairs for fast lookup
@@ -66,15 +66,15 @@ course_rooms = {
 
 # Dictionary mapping budget categories to dollar amounts
 monthly_budget = {
-    "Food": 450,
-    "Entertainment": 200,
-    "Books": 125,
-    "Transportation": 100
+    "Food": 200,
+    "Entertainment": 150,
+    "Books": 0,
+    "Transportation": 40
 }
 
 # Dictionary mapping subjects to weekly study hours
 study_hours_per_subject = {
-    "COMP 163": 10,
+    "COMP 163": 4,
     "Math": 8,
     "English": 4,
     "History": 3,
